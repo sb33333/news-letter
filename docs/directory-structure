@@ -1,0 +1,15 @@
+DevLetter/
+├── README.md
+├── docs/
+│   ├── 01-planning/
+│   │   ├── project-overview.md
+│   │   └── project-scope.md
+│   │
+│   ├── 02-requirements/
+│   │   └── requirements-specification.md
+│   │
+│   ├── 03-analysis-design/
+│   ├── 04-implementation/
+│   ├── 05-testing/
+│   └── 06-deployment/
+└── src/
